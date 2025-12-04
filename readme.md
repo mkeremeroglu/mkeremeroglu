@@ -1,5 +1,4 @@
 📍Türkiye/Kayseri
-
 📅05.03.2012
 
 
