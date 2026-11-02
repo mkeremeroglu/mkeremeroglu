@@ -1,9 +1,18 @@
-📍Türkiye/Kayseri
-📅05.03.2012
+---
 
+### 2. Terminal / Cyberpunk Tarzı (Geek & Retro)
 
-ABILITIES👨‍💻
+Profiline giren kişiyi sanal bir bash terminaliyle karşılayan, retro ve orijinal bir konsept.
 
-Intermediate - Advanced level Python🐍
+```markdown
+# ┌──([kullaniciadi]㉿dev-machine)-[~]
+# └─$ cat /etc/profile.d/developer.info
 
-Intermediate level Arduino
+```syslog
+[SYSTEM INFO]: Loading profile details...
+=====================================================
+[NAME]       : [Adın Soyadın]
+[ROLE]       : [Full-Stack & Hardware Developer]
+[LOCATION]   : [Şehir / Ülke]
+[STATUS]     : [Kod Yazıyor / YKS Hazırlığı / Yeni Proje Üretiyor]
+=====================================================
