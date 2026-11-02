@@ -1,9 +1,3 @@
----
-
-### 2. Terminal / Cyberpunk Tarzı (Geek & Retro)
-
-Profiline giren kişiyi sanal bir bash terminaliyle karşılayan, retro ve orijinal bir konsept.
-
 ```markdown
 # ┌──([kullaniciadi]㉿dev-machine)-[~]
 # └─$ cat /etc/profile.d/developer.info
