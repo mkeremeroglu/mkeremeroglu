@@ -15,9 +15,9 @@
 ---
 
 ### ⚡ Quick Overview
-* 🚀 **Building:** [Teknofest Rov]
-* 🧠 **Learning:** [C#]
-* ⚡ **Fun Fact:** [İhaları severim]
+* 🚀 **Building:** Teknofest Rov
+* 🧠 **Learning:** C#
+* ⚡ **Fun Fact:** İhaları severim
 
 ### 🛠️ Languages & Frameworks
 <p align="left">
@@ -25,10 +25,3 @@
 </p>
 
 ---
-
-### 📈 Metrics & Activity
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=mkeremeroglu&show_icons=true&theme=tokyonight&count_private=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mkeremeroglu&layout=compact&theme=tokyonight" />
-</p>
