@@ -21,7 +21,7 @@
 
 ### 🛠️ Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=py,html,arduino,cs,git,vscode,github" />
+  <img src="https://skillicons.dev/icons?i=py,html,arduino,cs,git,vscode,github,vs" />
 </p>
 
 ---
